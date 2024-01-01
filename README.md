@@ -17,8 +17,8 @@ Software Developer and Researcher
 * 🌍  I'm from Dacca
 * ✉️  You can contact me at [coolbappy47@gmail.com](mailto:coolbappy47@gmail.com)
 * 🧠  I'm learning Python
-* 🤝  I'm open to collaborating on Github
-* ⚡  I love to watch Anime.
+* 🤝  I'm open to collaborate on Github
+* ⚡  I love to watch Anime
 
 ### Skills
 
