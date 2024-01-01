@@ -14,7 +14,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Developer and Researcher
 ---------------------------------
 
-* 🌍  I'm based in Dacca
+* 🌍  I'm from Dacca
 * ✉️  You can contact me at [coolbappy47@gmail.com](mailto:coolbappy47@gmail.com)
 * 🧠  I'm learning Python
 * 🤝  I'm open to collaborating on Github
